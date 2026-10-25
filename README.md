@@ -108,7 +108,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/iot-device-management-backend.git
+git clone https://github.com/ajinkya029/iot-device-management.git
 cd iot-device-management
 ```
 
